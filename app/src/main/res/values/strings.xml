@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="room_one">Room One</string>
+    <string name="room_two">Room Two</string>
+    <string name="room_three">Room Three</string>
+    <string name="license">License</string>
+    <string name="brand">ฺBrand</string>
+    <string name="name">Name</string>
+    <string name="button_update">Update</string>
+    <string name="button_delete">Delete</string>
+    <string name="parking_title">Parking</string>
+</resources>
